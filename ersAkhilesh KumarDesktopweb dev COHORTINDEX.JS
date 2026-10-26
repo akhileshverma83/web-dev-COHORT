@@ -1,0 +1,23 @@
+[33mcommit 94c7575050db47be06eb97bea3a67e83b1b78c7f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Akhilesh Kumar <akhilesshve1122@gmail.com>
+Date:   Sun Oct 25 16:43:36 2026 +0530
+
+    function add(a,b){
+        return a + b;
+    
+    }
+    add(2,5)
+    add (10,23)
+    add(40,42)
+
+[33mcommit 737254bb562c24af4fd8a428d2165674ce7388b9[m
+Author: Akhilesh Kumar <akhilesshve1122@gmail.com>
+Date:   Sun Oct 25 16:31:54 2026 +0530
+
+    add one more add function call
+
+[33mcommit fb264a06c2810897f5f31d44e93dc5139054fd4c[m
+Author: Akhilesh Kumar <akhilesshve1122@gmail.com>
+Date:   Sun Oct 25 16:14:49 2026 +0530
+
+    add index with 5 lines of code
